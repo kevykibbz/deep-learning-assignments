@@ -1,0 +1,9 @@
+venv/
+Template/
+**/dataset/
+**/data/
+**/tiny_coco_dataset/
+**/images/
+**/raw/
+**/.ipynb_checkpoints/
+**/*.{tmp,pb,lnk,csv,png,jpg,jpeg,xlsx,twb,twbr,pt,gz}
